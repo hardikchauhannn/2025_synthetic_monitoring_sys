@@ -4,8 +4,7 @@ domains:
   # more domains can be added here or modified
   - google.com
   - github.com
-  - example.com
-  - 8.8.8.0 # dummy domain for something that is always down
+  - 1.2.3.4 # dummy 
 
 # time interval between pings is set to 5 seconds by default
 time_interval: 5
