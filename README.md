@@ -120,12 +120,4 @@ if you import dashboard using json
 - Average RTT Gauges
   - Bar/Donut gauges for latest RTT values
 
-## 🖼️ Example Dashboard
-
-
-![image](https://i.imgur.com/SxXSnj5.png)
-
-
-
-link https://imgur.com/a/R82dkkz.png
 
